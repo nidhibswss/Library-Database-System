@@ -18,3 +18,5 @@ data
 Flask.
 1
 12. Create Relational Algebra (RA) notation for all of our queries
+
+refer to the full documentation file in the docs folder
